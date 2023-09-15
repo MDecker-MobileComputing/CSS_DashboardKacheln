@@ -6,13 +6,24 @@ Die HTML-Seite wird mit [GitHub Pages](https://pages.github.com/) bereitgestellt
 
 <br>
 
-**Dateien mit Lösungsvorschlag:**
+----
+
+## Dateien mit Lösungsvorschlag ##
+
+<br>
 
 * [index.html](docs/index.html)
 * [style.css](docs/style.css)
 
 <br>
 
-Quelle der Aufgabe: https://github.com/DennisSchulmeister/dhbwka-wwi-webprog-quellcodes/tree/master/1%20HTML%20und%20CSS/Aufgaben/Dashboard-Kacheln
+-----
+
+## Aufgabenstellung ##
+
+<br>
+
+* [Aufgabenstellung](https://github.com/DennisSchulmeister/dhbwka-wwi-webprog-quellcodes/tree/master/1%20HTML%20und%20CSS/Aufgaben/Dashboard-Kacheln/Beschreibung)
+* [Musterlösung](https://github.com/DennisSchulmeister/dhbwka-wwi-webprog-quellcodes/tree/master/1%20HTML%20und%20CSS/Aufgaben/Dashboard-Kacheln/Loesung)
 
 <br>
