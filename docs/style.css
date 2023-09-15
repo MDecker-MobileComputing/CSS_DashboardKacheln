@@ -1,0 +1,94 @@
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 14pt;
+
+    background-color: rgb(250, 250, 250);
+    color: rgb(83, 91, 94);
+
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    box-sizing: border-box;
+    height: 100%;
+}
+
+header, main {
+    padding: 1rem;
+}
+
+header h1 {
+    font-size: 260%;
+    margin: 0 0 1rem 0;
+    color: skyblue;
+}
+
+.app-titel {
+    color: dodgerblue;
+    margin-right: 1rem;
+}
+
+nav a {
+    color: red;
+    text-decoration: none;
+    margin-right: 2rem;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+header {
+    background: white;
+    box-shadow: 1px 1px gray;
+    margin-bottom: 1rem;
+
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.kachel {
+    position: relative;
+    display: inline-block;
+    margin: .5em;
+    background: white;
+    width: 9em;
+    height: 9em;
+    box-shadow: 1px 1px 5px dimgray;
+    font-size: 110%;
+    cursor: pointer;
+}
+
+.ikone {
+    position: absolute;
+    bottom: 0.5rem;
+    left: 0.5rem;
+    color: dimgray;
+    font-size: 3em;
+}
+
+.anzahl {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 0.5rem;
+    font-size: 2em;
+}
+
+.kachelname {
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+}
+
+.status-alle {
+  background-color: #f5f5f5;
+}
