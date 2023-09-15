@@ -2,7 +2,8 @@
 
 <br>
 
-Die HTML-Seite wird mit [GitHub Pages](https://pages.github.com/) bereitgestellt unter **https://mdecker-mobilecomputing.github.io/CSS_DashboardKacheln/**
+Die in diesem Repo als Lösungsvorschlag enthaltene HTML-Seite wird mit [GitHub Pages](https://pages.github.com/) bereitgestellt unter:
+**https://mdecker-mobilecomputing.github.io/CSS_DashboardKacheln/**
 
 <br>
 
