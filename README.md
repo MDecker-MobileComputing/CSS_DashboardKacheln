@@ -1,8 +1,8 @@
-# Lösungsvorschlag für die Aufgabe "Dashboard-Kacheln" #
+# Lösungsvorschlag für die Aufgabe "Dashboard-Kacheln" (HTML+CSS) #
 
 <br>
 
-
+Die HTML-Seite wird mit [GitHub Pages](https://pages.github.com/) bereitgestellt unter **https://mdecker-mobilecomputing.github.io/CSS_DashboardKacheln/**
 
 <br>
 
