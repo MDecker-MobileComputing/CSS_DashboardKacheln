@@ -8,6 +8,10 @@ Die in diesem Repo als Lösungsvorschlag enthaltene statische HTML-Seite wird mi
 
 <br>
 
+Das Repo enthält nur eine statische HTML-Seite und nicht wirklich eine Applikationen zur Aufgabenverwaltung.
+
+<br>
+
 ----
 
 ## Dateien mit Lösungsvorschlag ##
