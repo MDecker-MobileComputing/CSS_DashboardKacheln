@@ -68,6 +68,12 @@ header {
     cursor: pointer;
 }
 
+.kachelname {
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+}
+
 .ikone {
     position: absolute;
     bottom: 0.5rem;
@@ -81,12 +87,6 @@ header {
     bottom: 0.5rem;
     right: 0.5rem;
     font-size: 2em;
-}
-
-.kachelname {
-    position: absolute;
-    top: 0.5rem;
-    left: 0.5rem;
 }
 
 .status-alle {
