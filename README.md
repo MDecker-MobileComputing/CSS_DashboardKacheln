@@ -25,7 +25,7 @@ Das Repo enthält nur eine statische HTML-Seite und nicht wirklich eine Applikat
 
 -----
 
-## Aufgabenstellung ##
+## Aufgabenstellung von D. Schulmeister-Zimolong ##
 
 <br>
 
