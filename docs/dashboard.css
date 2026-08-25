@@ -50,10 +50,9 @@ header {
     background   : white;
     box-shadow   : 1px 1px #808080;
     margin-bottom: 1rem;
-
-    position: sticky;
-    top     : 0;
-    z-index : 999;
+    position     : sticky;
+    top          : 0;
+    z-index      : 999;
 }
 
 .kachel {
