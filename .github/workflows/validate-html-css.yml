@@ -30,5 +30,4 @@ jobs:
           --root .
           --show-warnings
           --also-check-css
-          --ignore "conic-gradient"
-          --blacklist "fontello-4c4bde15"
+          --blacklist "fontello-35a4d8ce"
