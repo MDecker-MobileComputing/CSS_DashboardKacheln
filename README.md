@@ -2,13 +2,17 @@
 
 <br>
 
-Die in diesem Repo als Lösungsvorschlag enthaltene statische HTML-Seite wird mit [GitHub Pages](https://pages.github.com/) bereitgestellt unter:
+Die in diesem Repo als Lösungsvorschlag enthaltene statische HTML-Seite wird mit
+[GitHub Pages](https://pages.github.com/) bereitgestellt unter:
 
 &nbsp;&nbsp;&nbsp;&nbsp; **https://mdecker-mobilecomputing.github.io/CSS_DashboardKacheln/**
 
 <br>
 
 Das Repo enthält nur eine statische HTML-Seite und nicht wirklich eine Applikationen zur Aufgabenverwaltung.
+
+Aufgabenstellung von D. Schulmeister-Zimolong:
+https://github.com/DennisSchulmeister/dhbwka-wwi-webprog-aufgabe-dashboard-kacheln
 
 <br>
 
@@ -20,16 +24,5 @@ Das Repo enthält nur eine statische HTML-Seite und nicht wirklich eine Applikat
 
 * [index.html](docs/index.html)
 * [style.css](docs/style.css)
-
-<br>
-
------
-
-## Aufgabenstellung von D. Schulmeister-Zimolong ##
-
-<br>
-
-* [Aufgabenstellung](https://github.com/DennisSchulmeister/dhbwka-wwi-webprog-quellcodes/tree/master/1%20HTML%20und%20CSS/Aufgaben/Dashboard-Kacheln/Beschreibung)
-* [Musterlösung](https://github.com/DennisSchulmeister/dhbwka-wwi-webprog-quellcodes/tree/master/1%20HTML%20und%20CSS/Aufgaben/Dashboard-Kacheln/Loesung)
 
 <br>
