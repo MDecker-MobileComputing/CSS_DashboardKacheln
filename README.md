@@ -23,6 +23,6 @@ https://github.com/DennisSchulmeister/dhbwka-wwi-webprog-aufgabe-dashboard-kache
 <br>
 
 * [index.html](docs/index.html)
-* [style.css](docs/style.css)
+* [dashboard.css](docs/dashboard.css)
 
 <br>
